@@ -1,2 +1,3 @@
-var newText = "new Text"
-document.getElementById('Pony').innerHTML=newText
+document.getElementById('ok').addEventListener('click', function(e)){
+    alert('ok is clicked')
+}
