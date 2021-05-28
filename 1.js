@@ -1,2 +1,2 @@
 var newText = "new Text"
-document.getElementById('ok').innerHTML=newText
+document.getElementById('Pony').innerHTML=newText
