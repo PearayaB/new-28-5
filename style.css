@@ -24,3 +24,9 @@
     color: white;
     background-color: black;
 }
+.toggleOff {
+    background-color: gray;
+}
+.toggleOn {
+    background-color: white;
+}
